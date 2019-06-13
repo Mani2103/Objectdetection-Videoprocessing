@@ -1,0 +1,3 @@
+# Objectdetection-Videoprocessing
+neural network from the Mask_R-CNN repository for classifying single images. This repo incoperates a0n implementation of a convolutional neural network
+Optimize the image processing solutions which can do wonders if that comes to life Applications are endless  in my present work domain. So as a beginner i have successfully executed my first Object detection using MASK R-CNN however, the result output video is at 5fps just to bifurcate the different object detected. All suggestion and corrections  are welcome and highly appreciated.though ,i took reffrence &help through a lot of references to learn how computer understands images.and  used pre- trained data sets from COCO data-sets.
